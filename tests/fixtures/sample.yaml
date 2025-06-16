@@ -1,0 +1,5 @@
+id: sample
+prompt: "What is AI?"
+expect:
+  rubric: "factuality"
+  min_score: 0.0
